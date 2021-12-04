@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Atul Joshy</h1>
 <h3 align="center">Everything that you imagine can be real😉</h3>
 
