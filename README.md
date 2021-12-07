@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/atuljoshy" target="blank"><img src="https://img.shields.io/twitter/follow/atuljoshy?logo=twitter&style=for-the-badge" alt="atuljoshy" /></a> </p>
 
-- 🚀 I’m currently working on [My Startup Wreak.in](https://wreak.in)
+- 🚀 I’m currently working on My Startup [Wreak.in](https://wreak.in)
 
 - 💬 chat with me about **Startups, Technology, Cars and Music**
 
