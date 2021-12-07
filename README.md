@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Js**
 
-- ⚡ I’m currently improving **Javascript Skills**
+- ⚡ I’m currently improving my **Javascript Skills**
 
 - 👨‍💻 Check out my website [https://atuljoshy.com](https://atuljoshy.com)
 
