@@ -1,6 +1,6 @@
 # Hi, I'm Atul Joshy 👋  
   
-<img src="./banner-img.png">
+<img src="./ATUL JOSHY.png">
 
 I'm Atul Joshy, currently a First-Year student pursuing B-tech Computer Science (Cloud Computing and Automation) at VIT Bhopal. The things that always excites me are to have new experiences, meet new people, learn new things, and adding value to people’s lives through my skills and passions <br>
 
