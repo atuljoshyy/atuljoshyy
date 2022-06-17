@@ -1,6 +1,6 @@
 # Hi, I'm Atul Joshy 👋  
   
-<img src="./Atul Banner.png">
+<img src="./Atul Banner1.png">
 
 I am Atul Joshy and I am the co-founder of doppl.club. I'm passionate about programming, especially web development, and in my free time (almost all the time! 🤭), I'm probably playing the drums or taking pictures of random things. I love to explore new opportunities and do things that no one has done before. I am currently studying B-Tech CSE (Cloud Computing) at VIT Bhopal.<br>
 
