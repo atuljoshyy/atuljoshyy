@@ -1,19 +1,17 @@
 # Hi, I'm Atul Joshy 👋  
   
-<img src="./ATUL JOSHY.png">
+<img src="./Atul Banner.png">
 
-I'm Atul Joshy, currently a First-Year student pursuing B-tech Computer Science (Cloud Computing and Automation) at VIT Bhopal. The things that always excites me are to have new experiences, meet new people, learn new things, and adding value to people’s lives through my skills and passions <br>
+I am Atul Joshy and I am the co-founder of doppl.club. I'm passionate about programming, especially web development, and in my free time (almost all the time! 🤭), I'm probably playing the drums or taking pictures of random things. I love to explore new opportunities and do things that no one has done before. I am currently studying B-Tech CSE (Cloud Computing) at VIT Bhopal.<br>
 
 - 🚀 I’m currently working on My Startup <a href='https://doppl.club'>doppl.club</a> 🚀 
 
 - 💬 chat with me about **Startups, Technology, Cars and Music**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Backend Development**
 
-- ⚡ I’m currently improving my **Javascript Skills**
+- ⚡ I’m currently improving my **React Skills**
 
 - 👨‍💻 Check out my website [https://atuljoshy.com](https://atuljoshy.com)
 
-- 📫 How to reach me **hello@atuljoshy.com**
-
-
+- 📫 How to reach me **atuljoshyy@gmail.com**
